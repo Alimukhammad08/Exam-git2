@@ -501,6 +501,9 @@
   .w-\[100\%\] {
     width: 100%;
   }
+  .w-\[100\] {
+    width: 100;
+  }
   .w-\[100px\] {
     width: 100px;
   }
@@ -554,6 +557,9 @@
   }
   .max-w-2xl {
     max-width: var(--container-2xl);
+  }
+  .max-w-\[65\%\] {
+    max-width: 65%;
   }
   .max-w-\[180px\] {
     max-width: 180px;
